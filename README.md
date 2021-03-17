@@ -2,12 +2,18 @@
 It is a fun game i made, a clicker game. It can be a competitive game, a joke, a troll, a cps measuring device, and more.
 
 # Requirements
-Make sure you have JRE/JDK 8 or above.
+Make sure you have JDK 8 or above.
 
 # How To Start
-1, Download the HackerGUI.jar file
+1, Create a clone of the respository and extract the files into a folder
 
-2, Click on it to run
+2, Compile Main.java using terminal or a IDE of your choice (i preffer intellij)
+
+javac --8 main.java
+
+3, Run it using terminal or a IDE of your choice (i preffer intellij)
+
+java main.java
 
 # How To Play
 1, (optional but recommended) Set your name
@@ -20,7 +26,7 @@ Make sure you have JRE/JDK 8 or above.
 ![image](https://user-images.githubusercontent.com/47045986/111418448-be9b8d80-86b5-11eb-980b-a201c5bd97f7.png)
 
 
-3, When the timer runs out, the button will not work and you will have to press reset. Your scores or your opponet's scores will be saved onto the scores.txt file. (the option of saving scores automatically will be togglable in settings)
+3, When the timer reaches 0, your score will be saved onto "scores.txt" and the play button will be grayed out. You will need to press reset to start another round. 
 
 ![image](https://user-images.githubusercontent.com/47045986/111418667-1934e980-86b6-11eb-8809-a9935e491ab1.png)
 
