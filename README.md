@@ -1,5 +1,5 @@
 # Hacker-UI-v8.4 (beta)
-It is a fun game i made, a clicker game. It can be a competitive game, a joke, a troll, a cps measuring device, and more.
+(moved to clickerBoard) It is a fun game i made, a clicker game. It can be a competitive game, a joke, a troll, a cps measuring device, and more.
 
 # Requirements
 Make sure you have JDK 8 or above.
